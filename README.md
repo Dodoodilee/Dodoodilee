@@ -8,7 +8,7 @@ DorianDaniel {
   "country":  "France",
   "city":     "PARIS",
   "stack":    ["Node", "Javascript", "CSS", "React.Js", "HTML",  "..."],
-  "interest": ["CyberSecurity", "AI", "Automation", "Testing", "Engineering" "..."],,
+  "interest": ["CyberSecurity", "AI", "Automation", "Testing", "Engineering" "..."],
   
 }
 
